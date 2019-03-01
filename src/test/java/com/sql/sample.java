@@ -4,7 +4,7 @@ public class sample {
 	
 	public void addSum()
 	{
-		System.out.println("dfdfsf");
+		System.out.println("ashok");
 	}
 
 }
